@@ -1,2 +1,1 @@
 This is my first GIT Test file
-Now we append one more line in to the hello file
